@@ -22,3 +22,5 @@ Este projeto é um quiz interativo onde os usuários podem responder perguntas e
 
 ![alt text](image-1.png)
 
+## Acesse em:
+https://arley0122.github.io/QuizGame/
