@@ -8,7 +8,7 @@ function Page() {
   let asks: typePergunta[] = [
     {
       title: "Qual o nome do processo de derrentimento do gelo?",
-      alternativas: ['Ebulição', 'Água', 'Geleira', 'fusão'],
+      alternativas: ['Ebulição', 'Água', 'Geleira', 'Fusão'],
       alternativaCorreta: 3
     },
     {
